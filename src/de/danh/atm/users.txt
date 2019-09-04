@@ -1,0 +1,6 @@
+danh 1337 10
+andrei 4545 50
+christoph 6666 30
+andre 9898 100
+chanh 2404 500
+silas 6565 65
