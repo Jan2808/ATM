@@ -1,4 +1,4 @@
-danh 1337 10
+danh 1337 1000
 andrei 4545 50
 christoph 6666 30
 andre 9898 100

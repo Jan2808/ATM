@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="de.danh.atm.models.ATMFXML">
+  <children>
+    <TextField layoutX="200.0" layoutY="287.0" prefHeight="68.0" prefWidth="200.0" />
+    <Label fx:id="display" alignment="BOTTOM_LEFT" layoutX="124.0" layoutY="25.0" prefHeight="185.0" prefWidth="352.0" text="" />
+  </children>
+</AnchorPane>
